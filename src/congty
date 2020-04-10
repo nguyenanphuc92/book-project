@@ -1,0 +1,20 @@
+
+https://github.com/coreui/coreui-free-react-admin-template
+> https://web.dev/code-splitting-suspense/
+
+
+https://react-bootstrap.github.io/components/navbar/
+
+<Navbar fixed="top">
+  <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+  <Navbar.Collapse id="basic-navbar-nav">
+    <Nav className="mr-auto">
+      <Form inline>
+        <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+        <Button variant="outline-success">Search</Button>
+      </Form>
+    </Nav>
+    <Button variant="warning" className="mr-sm-2">VIP</Button>
+    <Button variant="success">Login</Button>
+  </Navbar.Collapse>
+</Navbar>
